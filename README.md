@@ -1,4 +1,4 @@
-# GM_UnrealEngine
+# Forest of the Slimes
 
 This is an assignment made for the course Game Mechanics in DAE. 
 We used Unreal Engine, mostly blueprints (because a lack of time to go deeper into c++).
